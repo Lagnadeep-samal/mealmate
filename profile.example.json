@@ -1,0 +1,13 @@
+{
+  "name": "Sam",
+  "allergies": ["peanut", "tree nuts", "shellfish"],
+  "also_avoid": ["cilantro"],
+  "treat_cautions_as_blocking": false,
+  "household_size": 2,
+  "max_cook_minutes": 40,
+  "diet": "",
+  "likes": ["rice bowls", "roast vegetables"],
+  "dislikes": ["olives"],
+  "pantry": ["salt", "black pepper", "olive oil"],
+  "notes": "We have one pan, one pot and a rice cooker."
+}
